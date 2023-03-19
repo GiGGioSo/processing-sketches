@@ -6,7 +6,7 @@ A simple 2D game, where your goal is to shoot at a moving target. If anything el
 There are multiple difficulties to choose from: easy, medium and hard.
 The number of obstacles increases with the difficulty.
 
-![Shooter2D menu](./screenshots/shooter_1.png)
+![Shooter2D menu](./screenshots/shooter_1.png | width=600)
 
 ![Shooter2D medium difficulty](./screenshots/shooter_2.png)
 
